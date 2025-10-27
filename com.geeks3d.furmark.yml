@@ -1,7 +1,7 @@
 id: com.geeks3d.furmark
 
 runtime: org.freedesktop.Platform
-runtime-version: '24.08'
+runtime-version: '25.08'
 sdk: org.freedesktop.Sdk
 
 finish-args:
@@ -50,15 +50,15 @@ modules:
     sources:
       - type: archive
         only-arches: [x86_64]
-        url: https://www.geeks3d.com/dl/get/818
-        sha256: e1a28817ad9a12c916bad7579be6cf7bd8ee35717cbf7c4078cd585e0986b240
+        url: https://gpumagick.com/downloads/files/2025/fm2/2_10_dbc69dd0a08da5ff09169a4fc759ddaa/FurMark_2.10.2_linux64.7z
+        sha256: b3d0048fdafb90184f18f537eb91e0c52f6d132ae6ed48cbb68c43db5a42aedb
         dest-filename: furmark.7z
         dest: furmark
 
       - type: archive
         only-arches: [aarch64]
-        url: https://www.geeks3d.com/dl/get/819
-        sha256: 3d4037358375783a6f5a3fd81092cb4d6c37dc79d4149de9797d4f604103f50e
+        url: https://gpumagick.com/downloads/files/2025/fm2/2_10_dbc69dd0a08da5ff09169a4fc759ddaa/FurMark_2.10.1_arm64.7z
+        sha256: 5d0b8ae948193a3c2aa443641d562ca221bdcf26406cd8d1fbae618fd76f018f
         dest-filename: furmark.7z
         dest: furmark
 
