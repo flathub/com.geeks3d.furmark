@@ -9,7 +9,7 @@
   <summary>OpenGL and Vulkan GPU stress test</summary>
   
   <metadata_license>CC-BY-SA-4.0</metadata_license>
-  <project_license>LicenseRef-proprietary</project_license>
+  <project_license>LicenseRef-proprietary=https://www.geeks3d.com/furmark/eula/</project_license>
 
   <recommends>
     <display_length compare="ge">756</display_length>
