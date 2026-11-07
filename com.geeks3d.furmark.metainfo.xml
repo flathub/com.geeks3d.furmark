@@ -77,6 +77,54 @@
   </content_rating>
  
   <releases>    
+      <release version="2.11.0.4" date="2026-10-30" type="stable">
+      <description>
+        <ul>
+          <li>added support of NVIDIA RTX Spark N1X (6144-core and 5120-core) Blackwell RTX GPUs.</li>
+          <li>elapsed time in rendering (left side) is now displayed as DAYS HH:MM:SS format </li>
+          <li>(useful for long stress test sessions).</li>
+          <li>time management is now based on 64-bit variables (elapsed time, max time, etc.).</li>
+          <li>(linux) GUI: Open folder link: replaced caja by xdg-open.</li>
+          <li>(linux) fixed a crash in the fetching of current DPI scaling value.</li>
+          <li>Now it should work correctly with Wayland compositors.</li>
+          <li>removed VRAM size in graphics card model names of AIB patners.</li>
+          <li>Extended version: any benchmark can be submitted.</li>
+          <li>Extended version: added duration for custom benchmark setting in the GUI.</li>
+          <li>--allow-sleep-mode command line parameters.</li>
+          <li>GUI: added 1920x720 resolution</li>
+          <li>GUI: AntiAliasing: added demo-controlled option.</li>
+          <li>fixed a bug in the OpenGL renderer when creating a fullscreen + MSAA OpenGL window</li>
+          <li>on systems with several screens connected to the same graphics card. On such systems, </li>
+          <li>the inputs (mouse and keyboard) were not processed. No bug on systems with </li>
+          <li>a single monitor only.</li>
+          <li>added AIB partner models names:</li>
+          <li>  . GIGABYTE RTX 5090 INFINITY</li>
+          <li>  . SAPPHIRE RX 9070 GRE Pulse</li>
+          <li>  . ASRock RX 9070 GRE Steel Legend</li>
+          <li>  . PNY RTX 5080 Slim OC</li>
+          <li>  . ASRock RX 9070 XT Taichi White OC</li>
+          <li>  . Colorful RTX 5070 Mini OC</li>
+          <li>  . ASUS RTX 5090 Matrix Platinum</li>
+          <li>  . ASUS RTX 5090D ASTRAL OC</li>
+          <li>  . MSI RTX 5090 Lightning Z</li>
+          <li>  . ASRock RX 9070 XT Monster Hunter Wilds Edition</li>
+          <li>  . PowerColor RX 9070 XT Reva</li>
+          <li>added new dynamic background (fire).</li>
+          <li>added AMD Radeon RX 9050 and RX 9050 4G support.</li>
+          <li>added Intel Arc Pro B70 and B65 support.</li>
+          <li>added support of NVIDIA GeForce RTX 5070(GB203), GeForce RTX 5050 Laptop GPU, </li>
+          <li>RTX 5060 Laptop GPU, RTX 5070 Laptop GPU, RTX 5070 Ti Laptop GPU and RTX 5080 Laptop GPU.</li>
+          <li>added NVIDIA RTX PRO 6000D, RTX PRO 5000 72GB Blackwell, RTX PRO 4000 Blackwell, </li>
+          <li>RTX PRO 4500 Blackwell, RTX PRO 2000 Blackwell.</li>
+          <li>added AMD Radeon AI PRO R9700S and R9600D.</li>
+          <li>added more Moore Threads GPUs: MTT S50, S30, S10, MTT S1000, S2000, S4000 and MTT X300.</li>
+          <li>updated with GPU Shark 2.11</li>
+          <li>updated with GPU-Z 2.71</li>
+          <li>updated with GeeXLab 0.67.2 libs.</li>
+        </ul>
+      </description>
+    </release>
+  
     <release version="2.10.2.0" date="2025-10-26" type="stable">
       <description>
         <ul>
