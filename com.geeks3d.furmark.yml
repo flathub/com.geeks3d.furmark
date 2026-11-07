@@ -18,6 +18,7 @@ modules:
     sources:
       - type: git
         url: https://gitlab.freedesktop.org/mesa/glu
+        commit: a2b96c7bba8db8fec3e02fb4227a7f7b02cabad1
         tag: glu-9.0.3
 
   - name: furmark
