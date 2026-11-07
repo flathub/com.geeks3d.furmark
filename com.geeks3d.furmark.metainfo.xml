@@ -36,23 +36,23 @@
   <screenshots>
     <screenshot type="default">
       <caption>Main window for starting stress-tests and benchmarks</caption>
-      <image>https://hannes.crafti-servi.com/furmark-screenshots/main-window.png</image>
+      <image>https://hannes-campidell.com/furmark-screenshots/main-window.png</image>
     </screenshot>
     <screenshot>
       <caption>Benchmarking window that uses a furry donut to load and test the GPU</caption>
-      <image>https://hannes.crafti-servi.com/furmark-screenshots/normal.png</image>
+      <image>https://hannes-campidell.com/furmark-screenshots/normal.png</image>
     </screenshot>
     <screenshot>
       <caption>Benchmark results for the donut test showing the performance of the tested GPU</caption>
-      <image>https://hannes.crafti-servi.com/furmark-screenshots/normal-benchmark-results.png</image>
+      <image>https://hannes-campidell.com/furmark-screenshots/normal-benchmark-results.png</image>
     </screenshot>
     <screenshot>
       <caption>Benchmarking window that uses a furry knot to load and test the GPU</caption>
-      <image>https://hannes.crafti-servi.com/furmark-screenshots/knot.png</image>
+      <image>https://hannes-campidell.com/furmark-screenshots/knot.png</image>
     </screenshot>
     <screenshot>
       <caption>Benchmark results for the knot test showing the performance of the tested GPU</caption>
-      <image>https://hannes.crafti-servi.com/furmark-screenshots/knot-benchmark-results.png</image>
+      <image>https://hannes-campidell.com/furmark-screenshots/knot-benchmark-results.png</image>
     </screenshot>
   </screenshots>
 
