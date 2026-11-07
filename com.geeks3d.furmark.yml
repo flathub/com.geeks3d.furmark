@@ -1,7 +1,7 @@
 id: com.geeks3d.furmark
 
 runtime: org.freedesktop.Platform
-runtime-version: '25.08'
+runtime-version: '26.08'
 sdk: org.freedesktop.Sdk
 
 finish-args:
